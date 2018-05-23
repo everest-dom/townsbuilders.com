@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: 
+Disallow: /subscribe/
+Disallow: /backup/
+Disallow: /crm/
+Disallow: /screenshots/
+Disallow: /test.php
+Disallow: /mail.php
+Disallow: /css/
+Disallow: /b/
+Disallow: /c/
+Disallow: /images/
+Disallow: /img/
+Disallow: /js/
+Disallow: /crm_test/
+Disallow: /old_site_120816/
+Disallow: /Asterisk
+Host: https://townsbuilders.com
